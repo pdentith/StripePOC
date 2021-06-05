@@ -1,0 +1,31 @@
+{
+    "body": {
+        "address": {
+            "city": "TestCity",
+            "country": null,
+            "line1": "55 Test Raod",
+            "line2": "Apt 23",
+            "postalCode": "99999",
+            "state": "CA"
+        },
+        "balance": 0,
+        "currency": null,
+        "default_source": null,
+        "delinquent": false,
+        "description": "New Customer Test",
+        "discount": null,
+        "email": "peter@test12345.com",
+        "invoice_settings": {
+            "custom_fields": null,
+            "default_payment_method": null,
+            "footer": null
+        },
+        "metadata": {},
+        "name": "Peter Test",
+        "next_invoice_sequence": 1,
+        "phone": "805 999 0000",
+        "preferred_locales": [],
+        "shipping": null,
+        "tax_exempt": "none"
+    }
+}
